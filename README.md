@@ -30,11 +30,13 @@ We encourage collaboration and are excited to see how you use, modify, and enhan
 ## Stay Connected:
 To stay updated on our latest projects and releases, be sure to follow us here on GitHub. For more in-depth insights and services, visit our main website and explore our full range of products. 
 Don't forget to connect with us on other platforms like 
+- [Our blog](https://celebian.com/blog)
 - Vimeo
+- [Medium](https://medium.com/@celebian)
 - Twitter
 - YouTube
 - Mastodon
-- Substack
+- [Substack](https://celebian.substack.com/)
 and [others](https://linktr.ee/celebian)...
 
 Thank you for visiting Celebian on GitHub. We're excited to be a part of your digital journey and can't wait to see what we can create together in the world of social media!
